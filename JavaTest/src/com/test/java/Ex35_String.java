@@ -1,4 +1,4 @@
-package com.test.java;
+﻿package com.test.java;
 
 public class Ex35_String {
 
@@ -7,7 +7,8 @@ public class Ex35_String {
 		
 		/*
 		
-		
+			이부분을 수정했다.
+
 			문자열
 			- 물리적으로는 참조형이지미나, 약간의 값형의 성질을 가진다.
 			- 박쥐
